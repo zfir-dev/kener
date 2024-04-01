@@ -21,4 +21,4 @@
   tag: "personal"
   api:
     method: GET
-    url: https://www.vpn.zfir.dev
+    url: https://vpn.zfir.dev
