@@ -12,6 +12,7 @@
     url: https://blog.zfir.dev
 - name: l.zfir.dev
   description: URL shortener
+  cron: "0 */5 * * *"
   tag: "url-shortener"
   api:
     method: GET
