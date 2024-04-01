@@ -31,7 +31,7 @@
 <footer class="py-6 z-10 md:px-8 md:py-0">
     <div class="container  relative flex flex-col pl-0 items-center justify-center max-w-[890px] gap-4 md:h-24 md:flex-row">
         <div class="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-2 md:px-0">
-            <p class="text-center text-sm leading-loose text-muted-foreground md:text-left">
+            <p class="text-center text-sm leading-loose text-muted-foreground md:text-center leading-none">
                 {@html data.site.footerHTML}
             </p>
         </div>
