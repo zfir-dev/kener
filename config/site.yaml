@@ -24,6 +24,6 @@ hero:
   title: zfir.dev Systems/Services
   subtitle: All details about the status of zfir.dev systems/services
 footerHTML: |
-  Made using Kener an open source status page system built with Svelte and TailwindCSS. 
-  zfir.dev Status Page is maintained by <a href="https://zfir.dev">zfir.dev</a>. 
-  zfir.dev © 2024
+  <div>Made using Kener an open source status page system built with Svelte and TailwindCSS.</div>
+  <div>zfir.dev Status Page is maintained by <a href="https://zfir.dev">zfir.dev</a>.</div>
+  <div>zfir.dev © 2024</div>
